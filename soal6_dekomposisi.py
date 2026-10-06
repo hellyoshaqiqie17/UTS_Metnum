@@ -8,7 +8,7 @@ Mahasiswa    : Hellyos Ageng Haqiqie (NIM: 163251001)
 Deskripsi:
 Simulasi numerik pemodelan polinomial kecepatan drone quadcopter menggunakan
 Dekomposisi QR dan Dekomposisi LU mandiri (from scratch).
-Parameter NIM: N = 25 (dua digit terakhir NIM 163251001).
+Parameter NIM: N = 1 (dua digit terakhir NIM 163251001).
 Membandingkan:
 a. Hasil analitik vs numerik (solusi x dan estimasi v(4.2 s)).
 b. Keakuratan numerik (residual norm, galat absolut/relatif) dan FLOPs

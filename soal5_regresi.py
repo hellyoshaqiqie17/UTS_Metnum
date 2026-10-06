@@ -3,7 +3,7 @@
 UJIAN TENGAH SEMESTER GASAL 2026/2027 - METODE NUMERIK (FTM25602016)
 BAGIAN 2: CODING (TAKE HOME) - SOAL 5 (BERBASIS DATA SOAL 4)
 Program Studi: Teknik Robotika dan Kecerdasan Buatan, FTMM Universitas Airlangga
-Mahasiswa    : Hellyos Ageng Haqiqie (NIM: 163251025)
+Mahasiswa    : Hellyos Ageng Haqiqie (NIM: 163251001)
 ================================================================================
 Deskripsi:
 Simulasi numerik pemodelan regresi linier metode Least Squares secara mandiri
